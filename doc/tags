@@ -1,0 +1,5 @@
+NvimKiroPlugin.disable()	nvim-kiro-plugin.txt	/*NvimKiroPlugin.disable()*
+NvimKiroPlugin.enable()	nvim-kiro-plugin.txt	/*NvimKiroPlugin.enable()*
+NvimKiroPlugin.options	nvim-kiro-plugin.txt	/*NvimKiroPlugin.options*
+NvimKiroPlugin.setup()	nvim-kiro-plugin.txt	/*NvimKiroPlugin.setup()*
+NvimKiroPlugin.toggle()	nvim-kiro-plugin.txt	/*NvimKiroPlugin.toggle()*
